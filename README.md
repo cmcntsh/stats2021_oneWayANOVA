@@ -1,1 +1,17 @@
-# stats2021_oneWayANOVA
+# One-way ANOVA
+
+## Exercises
+
+* 
+
+## Readings
+
+* 
+
+## Statistical Concept Videos
+
+* 
+
+## Statistical Software Videos
+
+* 
